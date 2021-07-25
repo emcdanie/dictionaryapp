@@ -16,7 +16,7 @@ function App() {
           <a 
           href="https:/elletamcdaniel.com" 
           target="_blank">
-            Elleta McDaniel
+            Elleta Michell Moire McDaniel
           </a>{""}
           and is{" "}
           <a
