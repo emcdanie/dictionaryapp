@@ -27,7 +27,7 @@ function App() {
           </a>{" "}
           and{" "}
           <a
-            href="/"
+            href="https://romantic-banach-8cf215.netlify.app"
             target="_blank"
           >
             hosted on Netlify
